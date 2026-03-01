@@ -141,5 +141,7 @@ summary(lm.fit0.8)
 #-------------------------------------------------------------
 # Multiple Regression
 #-------------------------------------------------------------
-lm.fit <- lm(Yearly.Amount.Spent ~ Avg..Session.Length + Time.on.App + Time.on.Website)
+lm.fit <- lm(Yearly.Amount.Spent ~ Avg..Session.Length + Time.on.App + Time.on.Website + Length.of.Membership,data= data)
+summary(lm.fit) 
+
 
