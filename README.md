@@ -28,3 +28,8 @@ It showcases skills relevant to data analysis, statistical modeling, and reprodu
 
 - **R & RStudio**
 - **Packages:** `ggplot2`
+
+## Visualizations: 
+<img width="840" height="630" alt="Rplot06" src="https://github.com/user-attachments/assets/0a82b24a-9d98-4762-9ae3-11726f6ce362" />
+<img width="415" height="624" alt="Rplot03" src="https://github.com/user-attachments/assets/beddb244-366a-4d5a-9f45-f32b380d4ad5" />
+<img width="840" height="630" alt="Rplot" src="https://github.com/user-attachments/assets/5374484e-31b3-440b-890f-71eb0d6fe71a" />
