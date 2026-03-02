@@ -22,7 +22,7 @@ It showcases skills relevant to data analysis, statistical modeling, and reprodu
 - Reproducible workflow and code organization:
   https://www.notion.so/Single-Multiple-Linear-Regression-Model-in-R-Studio-w-Ecommerce-Data-2f5c513841c84ba7b43a7a48c8437043?source=copy_link
 
-## **Analysis:**
+## **Analysis:**  
 **Time on App** (Most Impactful)  
 Coefficient: 38.71  
 For every additional unit increase in time spent on the mobile app, annual spending increases by approximately $38.71, holding other factors constant.  
@@ -54,7 +54,7 @@ Website optimization may not produce meaningful revenue impact compared to app i
 R² = 0.984  
 The model explains 98.4% of variation in annual spending  
 Highly statistically significant overall (F-test p < 0.001)  
-**Business translation:**  
+**Business translation:**
 The model provides highly reliable estimates of spending behavior and can be used for forecasting and revenue planning.  
 ---
 
