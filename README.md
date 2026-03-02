@@ -56,7 +56,7 @@ The model explains 98.4% of variation in annual spending
 Highly statistically significant overall (F-test p < 0.001)  
 **Business translation:**
 The model provides highly reliable estimates of spending behavior and can be used for forecasting and revenue planning.  
----
+
 
 ## 🛠 Tools & Packages
 
