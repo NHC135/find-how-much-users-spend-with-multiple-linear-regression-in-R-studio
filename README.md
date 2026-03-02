@@ -23,41 +23,39 @@ It showcases skills relevant to data analysis, statistical modeling, and reprodu
   https://www.notion.so/Single-Multiple-Linear-Regression-Model-in-R-Studio-w-Ecommerce-Data-2f5c513841c84ba7b43a7a48c8437043?source=copy_link
 
 ## **Analysis:**
-**Time on App** (Most Impactful)
-Coefficient: 38.71
+**Time on App** (Most Impactful)  
+Coefficient: 38.71  
 For every additional unit increase in time spent on the mobile app, annual spending increases by approximately $38.71, holding other factors constant.  
-**Business implication:**
-Mobile app engagement is a major revenue lever.
-
-**Length of Membership**
-Coefficient: 61.58
+**Business implication:**  
+Mobile app engagement is a major revenue lever.  
+  
+**Length of Membership**  
+Coefficient: 61.58  
 Each additional year (or unit) of membership increases annual spending by roughly $61.58.  
-**Business implication:  **
-Customer retention is critial.
-Loyalty programs and churn prevention strategies directly increase revenue.
-
-**Avg Session Length**
-Coefficient: 25.73
+**Business implication:**  
+Customer retention is critial.  
+Loyalty programs and churn prevention strategies directly increase revenue.  
+  
+**Avg Session Length**  
+Coefficient: 25.73  
 Longer sessions are associated with higher annual spending (~$25.73 per unit increase).  
-**Business implication: ** 
-Deeper engagement correlates with higher monetization.
-
+**Business implication:**   
+Deeper engagement correlates with higher monetization.  
 Content and personalization improvements could drive higher spend.
 
-**Time on Website (Not Significant)**
-p-value = 0.326 (Not statistically significant)
-Time spent on the website does not significantly predict annual spending once mobile app usage and membership length are accounted for.
-**Business implication:**
-The company may be mobile-dominant.
-Website optimization may not produce meaningful revenue impact compared to app improvements.
-
-
-**Model Strength**
-R² = 0.984
-The model explains 98.4% of variation in annual spending
-Highly statistically significant overall (F-test p < 0.001)
-**Business translation:**
-The model provides highly reliable estimates of spending behavior and can be used for forecasting and revenue planning.
+**Time on Website (Not Significant)**  
+p-value = 0.326 (Not statistically significant)  
+Time spent on the website does not significantly predict annual spending once mobile app usage and membership length are accounted for.  
+**Business implication:**  
+The company may be mobile-dominant.  
+Website optimization may not produce meaningful revenue impact compared to app improvements.  
+  
+**Model Strength**  
+R² = 0.984  
+The model explains 98.4% of variation in annual spending  
+Highly statistically significant overall (F-test p < 0.001)  
+**Business translation:**  
+The model provides highly reliable estimates of spending behavior and can be used for forecasting and revenue planning.  
 ---
 
 ## 🛠 Tools & Packages
