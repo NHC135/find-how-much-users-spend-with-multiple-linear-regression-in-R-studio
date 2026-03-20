@@ -1,5 +1,5 @@
 # About Dataset 
-The dataset is found from from kaggle, an ecommerce dataset. This dataset is having data of customers who buys clothes online.
+The dataset is found from from kaggle, an ecommerce dataset. This dataset consists of data of customers who buys clothes online.
 The store offers in-store style and clothing advice sessions.
 Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
@@ -57,12 +57,11 @@ Highly statistically significant overall (F-test p < 0.001)
 **Business translation:**
 The model provides highly reliable estimates of spending behavior and can be used for forecasting and revenue planning.  
 
-
 ## 🛠 Tools & Packages
 
 - **R & RStudio**
 - **Packages:** `ggplot2`
 
-## Visualizations: 
+## Example Visualizations: 
 <img width="840" height="630" alt="Rplot06" src="https://github.com/user-attachments/assets/0a82b24a-9d98-4762-9ae3-11726f6ce362" />
 <img width="840" height="630" alt="Rplot" src="https://github.com/user-attachments/assets/5374484e-31b3-440b-890f-71eb0d6fe71a" />
